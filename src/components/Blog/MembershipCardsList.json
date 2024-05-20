@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Free",
+        "price": "$00",
+        "description": "A 10X faster way to writing your professional copy",
+        "buttonText": "Start for Free",
+        "features": [
+            "Single seats",
+            "10,000 words per month",
+            "30+ AI writing tools",
+            "60+ Copywriting tools",
+            "10+ languages"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Starter",
+        "price": "$29",
+        "description": "Enhance your content creation with more tools",
+        "buttonText": "Choose Plan",
+        "features": [
+            "5 User seats",
+            "50,000 words per month",
+            "70+ AI writing tools",
+            "100+ Copywriting tools",
+            "Blog post wizard tool",
+            "25+ languages"
+        ]
+    },
+    {
+        "id": 3,
+        "popular":"Most Popular",
+        "title": "Enterprise",
+        "price": "$119",
+        "description": "For professionals needing advanced capabilities",
+        "buttonText": "Choose Plan",
+        "features": [
+            "Unlimited seats",
+            "100,000 words per month",
+            "50+ AI writing tools",
+            "100+ Copywriting tools",
+            "30+ languages"
+        ]
+    }
+]
